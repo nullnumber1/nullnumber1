@@ -8,3 +8,5 @@
 Studying at [ITMO University](http://itmo.ru).  
 Here you'll find my personal projects as well as studying assignments<br><br>
 <img src="https://user-images.githubusercontent.com/31243325/138606542-c3ea2167-39d4-4ec1-96b0-443dc6b078f0.gif"> 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullnumber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
