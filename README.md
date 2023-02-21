@@ -8,7 +8,10 @@
 Studying at [ITMO University](http://itmo.ru).  
 Here you'll find my personal projects as well as studying assignments<br><br>
 
-## Some stats 😺:
+<a href="https://github.com/nullnumber1">
+  <img src="https://github-readme-stats.wegfan.vercel.app/api?username=nullnumber1&show_icons=true&count_private=true&include_all_commits=true" alt="nullnumber1 GitHub Stats" />
+</a>
 
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=nullnumber1&count_private=true&show_icons=true)](https://github.com/nullnumber1) | [![Codestats](https://codestats-readme.avior.me/api/top-langs/?username=nullnumber1&language_count=10&layout=compact)](https://codestats.net/users/nullnumber1) |
-| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+## Recently I'm coding in:
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/nullnumber1?max_languages=15)
