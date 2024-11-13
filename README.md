@@ -5,9 +5,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artrom1511@gmail.com)](mailto:artrom1511@gmail.com)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=nullnumber1&style=flat-square&label=Visitors)
 
-Studying at [ITMO University](http://itmo.ru).  
-Here you'll find my personal projects as well as studying assignments<br><br>
-
 <a href="https://github.com/nullnumber1">
   <img src="https://github-readme-stats.wegfan.vercel.app/api?username=nullnumber1&show_icons=true&count_private=true&include_all_commits=true" alt="nullnumber1 GitHub Stats" />
 </a>
